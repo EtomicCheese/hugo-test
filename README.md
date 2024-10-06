@@ -1,3 +1,3 @@
 # Greetings
 
-This repo has no initial purpose
+This repo has no initial purpose for any reason

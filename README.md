@@ -1,3 +1,3 @@
-# Greetings
+# WELCOME TO THIS AMAZING PLACE
 
-This repo has no initial purpose for any reason
+THERE IS NOTHING USEFUL EHRE AT ALL
